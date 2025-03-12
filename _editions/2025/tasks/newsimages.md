@@ -10,6 +10,7 @@ subtitle: NewsImages
 blurb: "Participants receive a large set of articles (including the headline and article lead) in the English-language from international publishers. We offer two subtasks: retrieving an image for each article from a collection of images that can serve as a thumbnail, or generating an article thumbnail."
 ---
 
+
 <!-- # please respect the structure below-->
 *See the [MediaEval 2025 webpage](https://multimediaeval.github.io/editions/2025/) for information on how to register and participate.*
 
